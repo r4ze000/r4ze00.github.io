@@ -1,0 +1,33 @@
+.service_icon{
+    font-size: 120px;
+    color: azure;
+}
+.navbar-brand
+{
+  font-family: "Papyrus", fantasy;
+  font-weight: bold;
+  color:rgb(146, 136, 136);
+  font-size: 40px;
+  margin: 0px;
+}
+.card-title
+{
+  font-family:"Georgia", serif;
+  color:rgb(255, 247, 247);
+  font-size: 20px;
+  margin: 0px;
+}
+.card-title1
+{
+  font-family:"Garamond", serif;
+  color:rgb(148, 148, 148);
+  font-size: 20px;
+  margin: 0px;
+}
+.slider-font1
+{
+  font-family:"Papyrus", fantasy;
+  color:rgb(255, 255, 255);
+  font-size: 40px;
+  margin: 0px;
+}
